@@ -1,2 +1,2 @@
 hexlet-my-first-workflow
-![Build Status](https://github.com/xdan/jodit/workflows/Run%20tests/badge.svg)](https://github.com/keuyoh/hexlet-my-first-workflow/actions)
+[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://github.com/keuyoh/hexlet-my-first-workflow/blob/main/.github/workflows/hello-world.yml)
